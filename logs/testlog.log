@@ -1,0 +1,566 @@
+2014-12-11 13:12:24,371 - ConnectionIM - INFO - Connerction is initiated
+2014-12-11 13:17:15,413 - ConnectionIM - INFO - Connerction is initiated
+2014-12-11 13:17:15,490 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 13:19:00,059 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 13:19:00,162 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 13:19:00,167 - StatementIm - ERROR - bad formated input
+2014-12-11 13:19:33,471 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 13:19:33,554 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 13:19:33,556 - StatementIm - ERROR - bad formated input
+2014-12-11 13:19:50,504 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 13:19:50,573 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 13:19:50,575 - StatementIm - ERROR - bad formated input
+2014-12-11 13:20:07,542 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 13:20:07,613 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 13:20:07,615 - StatementIm - ERROR - bad formated input
+2014-12-11 13:20:27,377 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 13:20:27,451 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 13:20:27,453 - StatementIm - ERROR - bad formated input
+2014-12-11 13:21:47,949 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 13:21:48,028 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 13:21:48,031 - StatementIm - ERROR - bad formated input
+2014-12-11 13:21:48,032 - StatementIm - ERROR - bad formated input
+2014-12-11 13:22:43,529 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 13:22:43,607 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 13:22:43,610 - StatementIm - ERROR - bad formated input
+2014-12-11 13:22:43,618 - StatementIm - ERROR - This Table already exists
+2014-12-11 13:24:58,453 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 13:24:58,528 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 13:24:58,530 - StatementIm - ERROR - bad formated input
+2014-12-11 13:24:58,537 - StatementIm - ERROR - This Table already exists
+2014-12-11 13:25:16,825 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 13:25:16,904 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 13:25:16,907 - StatementIm - ERROR - bad formated input
+2014-12-11 13:25:16,916 - StatementIm - ERROR - This Table already exists
+2014-12-11 13:30:34,227 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 13:30:34,391 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 13:30:34,394 - StatementIm - ERROR - bad formated input
+2014-12-11 13:30:34,400 - StatementIm - ERROR - This Table already exists
+2014-12-11 13:30:43,034 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 13:30:43,114 - StatementIm - ERROR - This Table already exists
+2014-12-11 13:35:30,968 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 13:35:31,072 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 13:35:31,075 - StatementIm - ERROR - bad formated input
+2014-12-11 13:35:31,081 - StatementIm - ERROR - This Table already exists
+2014-12-11 13:35:31,154 - StatementIm - ERROR - Entered value doesn't match column type
+2014-12-11 13:36:57,309 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 13:36:57,418 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 13:36:57,421 - StatementIm - ERROR - bad formated input
+2014-12-11 13:36:57,428 - StatementIm - ERROR - This Table already exists
+2014-12-11 13:36:57,456 - StatementIm - ERROR - Entered value doesn't match column type
+2014-12-11 13:37:33,083 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 13:37:33,166 - StatementIm - ERROR - This Table already exists
+2014-12-11 13:37:46,463 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 13:37:46,581 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 13:37:46,583 - StatementIm - ERROR - bad formated input
+2014-12-11 13:37:46,588 - StatementIm - ERROR - This Table already exists
+2014-12-11 13:37:46,613 - StatementIm - ERROR - Entered value doesn't match column type
+2014-12-11 13:41:09,358 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 13:41:09,436 - StatementIm - ERROR - This Table already exists
+2014-12-11 13:41:24,735 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 13:41:24,830 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 13:41:24,832 - StatementIm - ERROR - bad formated input
+2014-12-11 13:41:24,837 - StatementIm - ERROR - This Table already exists
+2014-12-11 13:41:24,863 - StatementIm - ERROR - Entered value doesn't match column type
+2014-12-11 13:50:59,145 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 13:50:59,255 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 13:50:59,258 - StatementIm - ERROR - bad formated input
+2014-12-11 13:50:59,265 - StatementIm - ERROR - This Table already exists
+2014-12-11 13:50:59,292 - StatementIm - ERROR - Entered value doesn't match column type
+2014-12-11 13:54:13,634 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 13:54:13,713 - StatementIm - ERROR - This Table already exists
+2014-12-11 13:54:22,512 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 13:54:22,612 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 13:54:22,615 - StatementIm - ERROR - bad formated input
+2014-12-11 13:54:22,620 - StatementIm - ERROR - This Table already exists
+2014-12-11 13:54:22,646 - StatementIm - ERROR - Entered value doesn't match column type
+2014-12-11 13:55:03,314 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 13:55:03,387 - StatementIm - ERROR - This Table already exists
+2014-12-11 13:55:11,111 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 13:55:11,255 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 13:55:11,258 - StatementIm - ERROR - bad formated input
+2014-12-11 13:55:11,264 - StatementIm - ERROR - This Table already exists
+2014-12-11 13:55:11,297 - StatementIm - ERROR - Entered value doesn't match column type
+2014-12-11 13:56:03,291 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 13:56:03,402 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 13:56:03,405 - StatementIm - ERROR - bad formated input
+2014-12-11 13:56:03,412 - StatementIm - ERROR - This Table already exists
+2014-12-11 13:56:03,439 - StatementIm - ERROR - Entered value doesn't match column type
+2014-12-11 14:32:08,735 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 14:32:08,843 - StatementIm - ERROR - This Table already exists
+2014-12-11 14:32:21,634 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 14:32:21,731 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 14:32:21,733 - StatementIm - ERROR - bad formated input
+2014-12-11 14:32:21,737 - StatementIm - ERROR - This Table already exists
+2014-12-11 14:32:21,823 - StatementIm - ERROR - Query Execution TimeOut
+2014-12-11 14:33:02,868 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 14:33:02,970 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 14:33:02,973 - StatementIm - ERROR - bad formated input
+2014-12-11 14:33:02,978 - StatementIm - ERROR - This Table already exists
+2014-12-11 14:33:03,065 - StatementIm - ERROR - Query Execution TimeOut
+2014-12-11 14:33:11,874 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 14:33:11,950 - StatementIm - ERROR - This Table already exists
+2014-12-11 14:33:20,214 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 14:33:20,326 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 14:33:20,329 - StatementIm - ERROR - bad formated input
+2014-12-11 14:33:20,335 - StatementIm - ERROR - This Table already exists
+2014-12-11 14:33:20,422 - StatementIm - ERROR - Query Execution TimeOut
+2014-12-11 14:50:59,452 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 14:50:59,531 - StatementIm - ERROR - This Table already exists
+2014-12-11 14:51:07,178 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 14:51:07,271 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 14:51:07,273 - StatementIm - ERROR - bad formated input
+2014-12-11 14:51:07,277 - StatementIm - ERROR - This Table already exists
+2014-12-11 14:51:07,360 - StatementIm - ERROR - Query Execution TimeOut
+2014-12-11 15:03:36,839 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:03:36,960 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 15:03:36,963 - StatementIm - ERROR - bad formated input
+2014-12-11 15:03:36,969 - StatementIm - ERROR - This Table already exists
+2014-12-11 15:03:37,069 - StatementIm - ERROR - Query Execution TimeOut
+2014-12-11 15:06:53,399 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:06:53,502 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 15:06:53,505 - StatementIm - ERROR - bad formated input
+2014-12-11 15:06:53,511 - StatementIm - ERROR - This Table already exists
+2014-12-11 15:06:53,605 - StatementIm - ERROR - Query Execution TimeOut
+2014-12-11 15:09:35,298 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:09:35,376 - StatementIm - ERROR - This Table already exists
+2014-12-11 15:09:42,392 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:09:42,557 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 15:09:42,559 - StatementIm - ERROR - bad formated input
+2014-12-11 15:09:42,565 - StatementIm - ERROR - This Table already exists
+2014-12-11 15:09:42,683 - StatementIm - ERROR - Query Execution TimeOut
+2014-12-11 15:10:13,507 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:10:13,579 - StatementIm - ERROR - This Table already exists
+2014-12-11 15:10:24,878 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:10:24,973 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 15:10:24,975 - StatementIm - ERROR - bad formated input
+2014-12-11 15:10:24,980 - StatementIm - ERROR - This Table already exists
+2014-12-11 15:10:24,995 - StatementIm - ERROR - bad formated input
+2014-12-11 15:10:46,176 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:10:46,248 - StatementIm - ERROR - This Table already exists
+2014-12-11 15:10:51,952 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:10:52,054 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 15:10:52,057 - StatementIm - ERROR - bad formated input
+2014-12-11 15:10:52,062 - StatementIm - ERROR - This Table already exists
+2014-12-11 15:10:52,081 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 15:11:54,089 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:11:54,164 - StatementIm - ERROR - This Table already exists
+2014-12-11 15:13:44,386 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:13:44,521 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 15:13:44,524 - StatementIm - ERROR - bad formated input
+2014-12-11 15:13:44,529 - StatementIm - ERROR - This Table already exists
+2014-12-11 15:13:44,637 - StatementIm - ERROR - no row exists with this criteria
+2014-12-11 15:14:27,898 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:14:27,997 - StatementIm - ERROR - This Table already exists
+2014-12-11 15:14:41,682 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:14:41,778 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 15:14:41,780 - StatementIm - ERROR - bad formated input
+2014-12-11 15:14:41,787 - StatementIm - ERROR - This Table already exists
+2014-12-11 15:15:21,679 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:15:21,802 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 15:15:21,806 - StatementIm - ERROR - bad formated input
+2014-12-11 15:15:21,813 - StatementIm - ERROR - This Table already exists
+2014-12-11 15:16:17,502 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:16:17,580 - StatementIm - ERROR - This Table already exists
+2014-12-11 15:16:24,936 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:16:25,055 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 15:16:25,058 - StatementIm - ERROR - bad formated input
+2014-12-11 15:16:25,064 - StatementIm - ERROR - This Table already exists
+2014-12-11 15:16:25,473 - ConnectionIM - INFO - Connection is closed.
+2014-12-11 15:16:25,474 - StatementIm - ERROR - No Defined Current Database
+2014-12-11 15:23:08,904 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:23:09,022 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 15:23:09,024 - StatementIm - ERROR - bad formated input
+2014-12-11 15:23:09,029 - StatementIm - ERROR - This Table already exists
+2014-12-11 15:23:09,431 - ConnectionIM - INFO - Connection is closed.
+2014-12-11 15:23:09,432 - StatementIm - ERROR - No Defined Current Database
+2014-12-11 15:23:09,435 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:23:30,698 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:23:30,840 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 15:23:30,843 - StatementIm - ERROR - bad formated input
+2014-12-11 15:23:30,849 - StatementIm - ERROR - This Table already exists
+2014-12-11 15:23:31,307 - ConnectionIM - INFO - Connection is closed.
+2014-12-11 15:23:31,307 - StatementIm - ERROR - No Defined Current Database
+2014-12-11 15:23:31,309 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:24:08,388 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:24:08,490 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 15:24:08,492 - StatementIm - ERROR - bad formated input
+2014-12-11 15:24:08,498 - StatementIm - ERROR - This Table already exists
+2014-12-11 15:24:08,930 - ConnectionIM - INFO - Connection is closed.
+2014-12-11 15:24:08,931 - StatementIm - ERROR - No Defined Current Database
+2014-12-11 15:24:08,933 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:47:15,985 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:47:16,068 - StatementIm - ERROR - This Table already exists
+2014-12-11 15:47:26,047 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:47:26,148 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 15:47:26,151 - StatementIm - ERROR - bad formated input
+2014-12-11 15:47:26,156 - StatementIm - ERROR - This Table already exists
+2014-12-11 15:47:26,543 - ConnectionIM - INFO - Connection is closed.
+2014-12-11 15:47:26,544 - StatementIm - ERROR - No Defined Current Database
+2014-12-11 15:47:26,546 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:47:26,569 - StatementIm - ERROR - no row exists with this criteria
+2014-12-11 15:49:23,415 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:49:23,521 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 15:49:23,524 - StatementIm - ERROR - bad formated input
+2014-12-11 15:49:23,529 - StatementIm - ERROR - This Table already exists
+2014-12-11 15:49:23,915 - ConnectionIM - INFO - Connection is closed.
+2014-12-11 15:49:23,916 - StatementIm - ERROR - No Defined Current Database
+2014-12-11 15:49:23,918 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:49:23,941 - StatementIm - ERROR - no row exists with this criteria
+2014-12-11 15:56:31,590 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:56:31,694 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 15:56:31,698 - StatementIm - ERROR - bad formated input
+2014-12-11 15:56:31,703 - StatementIm - ERROR - This Table already exists
+2014-12-11 15:56:32,119 - ConnectionIM - INFO - Connection is closed.
+2014-12-11 15:56:32,120 - StatementIm - ERROR - No Defined Current Database
+2014-12-11 15:56:32,122 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:56:32,147 - StatementIm - ERROR - no row exists with this criteria
+2014-12-11 15:56:57,649 - Main - ERROR - data base doesn't exist.
+2014-12-11 15:57:04,741 - Main - ERROR - data base doesn't exist.
+2014-12-11 15:57:26,699 - Main - ERROR - data base doesn't exist.
+2014-12-11 15:58:03,147 - Main - ERROR - incorrect username or password.
+2014-12-11 15:58:16,536 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 15:58:43,052 - StatementIm - ERROR - no row exists with this criteria
+2014-12-11 15:58:43,053 - Main - ERROR - no row exists with this criteria
+2014-12-11 16:00:04,043 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 16:00:04,137 - StatementIm - ERROR - This Table already exists
+2014-12-11 16:00:11,675 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 16:00:11,833 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 16:00:11,836 - StatementIm - ERROR - bad formated input
+2014-12-11 16:00:11,842 - StatementIm - ERROR - This Table already exists
+2014-12-11 16:00:12,239 - ConnectionIM - INFO - Connection is closed.
+2014-12-11 16:00:12,239 - StatementIm - ERROR - No Defined Current Database
+2014-12-11 16:00:12,241 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 16:00:12,268 - StatementIm - ERROR - no row exists with this criteria
+2014-12-11 16:01:58,986 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 16:01:59,091 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 16:01:59,094 - StatementIm - ERROR - bad formated input
+2014-12-11 16:01:59,100 - StatementIm - ERROR - This Table already exists
+2014-12-11 16:01:59,635 - StatementIm - ERROR - no row exists with this criteria
+2014-12-11 16:02:14,522 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 16:02:14,600 - StatementIm - ERROR - This Table already exists
+2014-12-11 16:03:04,115 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 16:03:04,193 - StatementIm - ERROR - This Table already exists
+2014-12-11 16:03:11,375 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 16:03:11,478 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 16:03:11,481 - StatementIm - ERROR - bad formated input
+2014-12-11 16:03:11,487 - StatementIm - ERROR - This Table already exists
+2014-12-11 16:33:09,554 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 16:33:09,648 - StatementIm - ERROR - This Table already exists
+2014-12-11 16:33:24,556 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 16:33:24,713 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 16:33:24,717 - StatementIm - ERROR - bad formated input
+2014-12-11 16:33:24,723 - StatementIm - ERROR - This Table already exists
+2014-12-11 16:33:25,184 - ConnectionIM - INFO - Connection is closed.
+2014-12-11 16:33:25,185 - StatementIm - ERROR - No Defined Current Database
+2014-12-11 16:33:25,188 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 16:33:25,322 - StatementIm - ERROR - java.sql.SQLException
+2014-12-11 16:34:05,851 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 16:34:05,958 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 16:34:05,962 - StatementIm - ERROR - bad formated input
+2014-12-11 16:34:05,967 - StatementIm - ERROR - This Table already exists
+2014-12-11 16:34:06,357 - ConnectionIM - INFO - Connection is closed.
+2014-12-11 16:34:06,358 - StatementIm - ERROR - No Defined Current Database
+2014-12-11 16:34:06,360 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 16:35:07,993 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 16:35:08,122 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 16:35:08,125 - StatementIm - ERROR - bad formated input
+2014-12-11 16:35:08,131 - StatementIm - ERROR - This Table already exists
+2014-12-11 16:35:08,567 - ConnectionIM - INFO - Connection is closed.
+2014-12-11 16:35:08,568 - StatementIm - ERROR - No Defined Current Database
+2014-12-11 16:35:08,570 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 16:36:26,834 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 16:36:26,944 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 16:36:26,947 - StatementIm - ERROR - bad formated input
+2014-12-11 16:36:26,953 - StatementIm - ERROR - This Table already exists
+2014-12-11 16:36:27,355 - ConnectionIM - INFO - Connection is closed.
+2014-12-11 16:36:27,355 - StatementIm - ERROR - No Defined Current Database
+2014-12-11 16:36:27,358 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 16:38:01,449 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 16:38:01,567 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 16:38:01,570 - StatementIm - ERROR - bad formated input
+2014-12-11 16:38:01,577 - StatementIm - ERROR - This Table already exists
+2014-12-11 16:38:01,982 - ConnectionIM - INFO - Connection is closed.
+2014-12-11 16:38:01,983 - StatementIm - ERROR - No Defined Current Database
+2014-12-11 16:38:01,985 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 16:58:11,574 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 16:58:11,685 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 16:58:11,688 - StatementIm - ERROR - bad formated input
+2014-12-11 16:58:11,694 - StatementIm - ERROR - This Table already exists
+2014-12-11 16:58:12,091 - ConnectionIM - INFO - Connection is closed.
+2014-12-11 16:58:12,092 - StatementIm - ERROR - No Defined Current Database
+2014-12-11 16:58:12,094 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 16:58:12,207 - StatementIm - ERROR - bad formated input
+2014-12-11 17:10:04,500 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 17:10:04,668 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 17:10:04,672 - StatementIm - ERROR - bad formated input
+2014-12-11 17:10:04,679 - StatementIm - ERROR - This Table already exists
+2014-12-11 17:10:05,111 - ConnectionIM - INFO - Connection is closed.
+2014-12-11 17:10:05,112 - StatementIm - ERROR - No Defined Current Database
+2014-12-11 17:10:05,114 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 17:10:05,228 - StatementIm - ERROR - bad formated input
+2014-12-11 17:12:22,980 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 17:12:23,117 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 17:12:23,121 - StatementIm - ERROR - bad formated input
+2014-12-11 17:12:23,130 - StatementIm - ERROR - This Table already exists
+2014-12-11 17:12:23,629 - ConnectionIM - INFO - Connection is closed.
+2014-12-11 17:12:23,630 - StatementIm - ERROR - No Defined Current Database
+2014-12-11 17:12:23,633 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 17:12:23,786 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 17:14:44,595 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 17:14:44,700 - StatementIm - ERROR - For input string: ")"
+2014-12-11 17:33:12,128 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 17:33:12,263 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 17:33:12,267 - StatementIm - ERROR - bad formated input
+2014-12-11 17:33:12,274 - StatementIm - ERROR - This Table already exists
+2014-12-11 17:33:12,730 - ConnectionIM - INFO - Connection is closed.
+2014-12-11 17:33:12,730 - StatementIm - ERROR - No Defined Current Database
+2014-12-11 17:33:12,732 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 17:33:12,866 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 18:05:05,524 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 18:05:14,886 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 18:05:14,888 - Main - ERROR - This Table doesn't exists in database
+2014-12-11 18:06:53,999 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 18:09:05,807 - StatementIm - ERROR - Index: 1, Size: 1
+2014-12-11 18:09:05,809 - Main - ERROR - 
+2014-12-11 18:17:39,713 - StatementIm - ERROR - bad formated input
+2014-12-11 18:17:39,714 - Main - ERROR - bad formated input
+2014-12-11 18:21:55,757 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 18:21:55,786 - StatementIm - ERROR - This Table already exists
+2014-12-11 18:22:43,266 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 18:22:43,321 - StatementIm - ERROR - This Table already exists
+2014-12-11 18:23:20,478 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 18:23:50,966 - StatementIm - ERROR - Index: 2, Size: 2
+2014-12-11 18:23:50,967 - Main - ERROR - 
+2014-12-11 18:24:12,768 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 18:24:26,915 - Main - ERROR - 
+2014-12-11 18:28:30,269 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 18:28:48,057 - StatementIm - ERROR - Index: 1, Size: 1
+2014-12-11 18:28:48,059 - Main - ERROR - 
+2014-12-11 18:45:59,193 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 18:48:31,282 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 18:48:52,053 - StatementIm - ERROR - 
+2014-12-11 18:48:52,055 - Main - ERROR - 
+2014-12-11 18:56:42,101 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 18:57:03,493 - StatementIm - ERROR - Index: 2, Size: 2
+2014-12-11 18:57:03,495 - Main - ERROR - 
+2014-12-11 19:07:24,146 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 19:07:47,885 - StatementIm - ERROR - bad formated input
+2014-12-11 19:07:47,887 - Main - ERROR - bad formated input
+2014-12-11 19:08:31,857 - StatementIm - ERROR - bad formated input
+2014-12-11 19:08:31,858 - Main - ERROR - bad formated input
+2014-12-11 19:11:08,497 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 19:14:17,201 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 19:15:22,361 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 19:15:53,397 - StatementIm - ERROR - bad formated input
+2014-12-11 19:15:53,399 - Main - ERROR - bad formated input
+2014-12-11 19:17:10,782 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 19:18:31,209 - StatementIm - ERROR - bad formated input
+2014-12-11 19:18:31,212 - Main - ERROR - bad formated input
+2014-12-11 19:23:21,343 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 19:23:23,190 - StatementIm - ERROR - Unclosed group near index 123
+^(update)\ +[_a-z][a-z0-9_]*\ +(set)(\ *\w+\ *=\ *(('.*')|([0-9]+))+where\ +\w+\ *((>)|(<)|(=)|(>=)|(<=)|(==))\ *(\w+)\ *;?
+                                                                                                                           ^
+2014-12-11 19:23:23,192 - Main - ERROR - 
+2014-12-11 19:24:18,072 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 19:24:19,387 - StatementIm - ERROR - bad formated input
+2014-12-11 19:24:19,388 - Main - ERROR - bad formated input
+2014-12-11 19:26:18,740 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 19:26:50,791 - StatementIm - ERROR - bad formated input
+2014-12-11 19:26:50,793 - Main - ERROR - bad formated input
+2014-12-11 19:27:19,264 - StatementIm - ERROR - 1
+2014-12-11 19:27:19,265 - Main - ERROR - 
+2014-12-11 19:32:39,758 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 19:33:18,010 - StatementIm - ERROR - bad formated input
+2014-12-11 19:33:18,012 - Main - ERROR - bad formated input
+2014-12-11 19:38:43,498 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 19:38:44,645 - StatementIm - ERROR - Illegal repetition near index 52
+^(update)\ +[_a-z][a-z0-9_]*\ +(set)(\ *\w+\ *=\ *('?{?('?\w+'?,?)+}?'?)+\ *where\ +\w+\ *((>)|(<)|(=)|(>=)|(<=)|(==))\ *(('.*')|([0-9]+))\ *;?
+                                                    ^
+2014-12-11 19:38:44,647 - Main - ERROR - 
+2014-12-11 19:39:26,202 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 19:39:27,590 - StatementIm - ERROR - Unclosed group near index 145
+^(update)\ +[_a-z][a-z0-9_]*\ +(set)(\ *\w+\ *=\ *('?\{?('?\w+'?,?)+\}?'?)+\ *where\ +\w+\ *((>)|(<)|(=)|(>=)|(<=)|(==))\ *(('.*')|([0-9]+))\ *;?
+                                                                                                                                                 ^
+2014-12-11 19:39:27,592 - Main - ERROR - 
+2014-12-11 19:40:33,321 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 19:40:34,307 - StatementIm - ERROR - Entered value doesn't match column type
+2014-12-11 19:40:34,308 - Main - ERROR - Entered value doesn't match column type
+2014-12-11 19:45:12,253 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 19:45:13,730 - StatementIm - ERROR - Entered value doesn't match column type
+2014-12-11 19:45:13,732 - Main - ERROR - Entered value doesn't match column type
+2014-12-11 19:52:51,341 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 19:52:53,578 - StatementIm - ERROR - Entered value doesn't match column type
+2014-12-11 19:52:53,580 - Main - ERROR - Entered value doesn't match column type
+2014-12-11 19:53:34,558 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 19:53:35,991 - StatementIm - ERROR - Entered value doesn't match column type
+2014-12-11 19:53:35,993 - Main - ERROR - Entered value doesn't match column type
+2014-12-11 19:55:09,241 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 19:55:10,663 - StatementIm - ERROR - Entered value doesn't match column type
+2014-12-11 19:55:10,665 - Main - ERROR - Entered value doesn't match column type
+2014-12-11 19:59:30,233 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 19:59:31,715 - StatementIm - ERROR - Illegal repetition near index 2
+ ,}{'
+  ^
+2014-12-11 19:59:31,716 - Main - ERROR - 
+2014-12-11 20:00:46,834 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 20:00:48,468 - StatementIm - ERROR - Unclosed character class near index 2
+ ][
+  ^
+2014-12-11 20:00:48,471 - Main - ERROR - 
+2014-12-11 20:01:10,116 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 20:01:11,767 - StatementIm - ERROR - Unclosed character class near index 2
+ ][
+  ^
+2014-12-11 20:01:11,769 - Main - ERROR - 
+2014-12-11 20:01:32,636 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 20:01:34,154 - StatementIm - ERROR - 2
+2014-12-11 20:01:34,155 - Main - ERROR - 
+2014-12-11 20:18:39,529 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 20:24:41,139 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 20:32:43,065 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 20:33:23,189 - StatementIm - ERROR - bad formated input
+2014-12-11 20:33:23,191 - Main - ERROR - bad formated input
+2014-12-11 20:35:39,490 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 20:37:51,165 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 20:38:27,415 - StatementIm - ERROR - 
+2014-12-11 20:38:27,416 - Main - ERROR - 
+2014-12-11 20:38:55,633 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 20:38:56,999 - StatementIm - ERROR - 
+2014-12-11 20:38:57,000 - Main - ERROR - 
+2014-12-11 20:39:05,506 - StatementIm - ERROR - 
+2014-12-11 20:39:05,507 - Main - ERROR - 
+2014-12-11 20:40:15,713 - StatementIm - ERROR - 
+2014-12-11 20:40:15,714 - Main - ERROR - 
+2014-12-11 20:41:03,695 - StatementIm - ERROR - 
+2014-12-11 20:41:03,696 - Main - ERROR - 
+2014-12-11 20:41:29,850 - StatementIm - ERROR - 
+2014-12-11 20:41:29,851 - Main - ERROR - 
+2014-12-11 20:45:58,894 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 20:47:07,082 - StatementIm - ERROR - bad formated input
+2014-12-11 20:47:07,083 - Main - ERROR - bad formated input
+2014-12-11 20:49:40,232 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 20:49:41,659 - StatementIm - ERROR - 
+2014-12-11 20:49:41,660 - Main - ERROR - 
+2014-12-11 20:50:07,421 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 20:50:51,360 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 20:51:53,562 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 20:52:35,289 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 20:55:23,783 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 20:56:25,471 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 20:56:26,497 - StatementIm - ERROR - Entered value doesn't match column type
+2014-12-11 20:56:26,498 - Main - ERROR - Entered value doesn't match column type
+2014-12-11 20:58:18,757 - StatementIm - ERROR - bad formated input
+2014-12-11 20:58:18,758 - Main - ERROR - bad formated input
+2014-12-11 21:03:21,868 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 21:03:23,066 - StatementIm - ERROR - For input string: "double"
+2014-12-11 21:03:23,068 - Main - ERROR - 
+2014-12-11 21:18:22,287 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 21:18:22,315 - StatementIm - ERROR - This Table already exists
+2014-12-11 21:19:35,800 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 21:19:35,830 - StatementIm - ERROR - This Table already exists
+2014-12-11 21:25:08,123 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 21:25:08,149 - StatementIm - ERROR - This Table already exists
+2014-12-11 21:25:40,158 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 21:25:40,230 - StatementIm - ERROR - This Table already exists
+2014-12-11 21:26:13,430 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 21:26:13,453 - StatementIm - ERROR - This Table already exists
+2014-12-11 21:28:16,924 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 21:28:16,952 - StatementIm - ERROR - This Table already exists
+2014-12-11 21:29:15,683 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 21:29:15,708 - StatementIm - ERROR - This Table already exists
+2014-12-11 21:29:43,936 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 21:30:20,528 - StatementIm - ERROR - bad formated input
+2014-12-11 21:30:20,529 - Main - ERROR - bad formated input
+2014-12-11 21:30:43,914 - StatementIm - ERROR - bad formated input
+2014-12-11 21:30:43,918 - Main - ERROR - bad formated input
+2014-12-11 21:34:55,420 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 21:34:55,483 - StatementIm - ERROR - This Table already exists
+2014-12-11 21:37:12,457 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 21:37:12,490 - StatementIm - ERROR - This Table already exists
+2014-12-11 21:38:56,964 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 21:38:57,013 - StatementIm - ERROR - This Table already exists
+2014-12-11 21:40:47,142 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 21:41:32,191 - StatementIm - ERROR - bad formated input
+2014-12-11 21:41:32,192 - Main - ERROR - bad formated input
+2014-12-11 21:42:42,900 - StatementIm - ERROR - bad formated input
+2014-12-11 21:42:42,901 - Main - ERROR - bad formated input
+2014-12-11 21:47:32,176 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 21:47:32,250 - StatementIm - ERROR - This Table already exists
+2014-12-11 21:48:21,136 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 21:49:20,399 - StatementIm - ERROR - bad formated input
+2014-12-11 21:49:20,400 - Main - ERROR - bad formated input
+2014-12-11 21:50:10,851 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 21:51:24,953 - StatementIm - ERROR - bad formated input
+2014-12-11 21:51:24,954 - Main - ERROR - bad formated input
+2014-12-11 21:52:21,293 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 21:52:22,660 - StatementIm - ERROR - bad formated input
+2014-12-11 21:52:22,662 - Main - ERROR - bad formated input
+2014-12-11 21:56:15,486 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 21:56:15,563 - StatementIm - ERROR - This Table already exists
+2014-12-11 21:59:06,226 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 21:59:06,265 - StatementIm - ERROR - This Table already exists
+2014-12-11 21:59:45,185 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 21:59:45,211 - StatementIm - ERROR - This Table already exists
+2014-12-11 22:02:46,625 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 22:04:12,008 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 22:04:13,398 - StatementIm - ERROR - For input string: "double"
+2014-12-11 22:04:13,399 - Main - ERROR - 
+2014-12-11 22:11:06,248 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 22:11:06,297 - StatementIm - ERROR - This Table already exists
+2014-12-11 22:23:21,505 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 22:23:21,573 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 22:23:21,574 - StatementIm - ERROR - bad formated input
+2014-12-11 22:23:21,576 - StatementIm - ERROR - This Table already exists
+2014-12-11 22:23:21,749 - ConnectionIM - INFO - Connection is closed.
+2014-12-11 22:23:21,750 - StatementIm - ERROR - No Defined Current Database
+2014-12-11 22:23:21,751 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 22:23:21,822 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 22:27:14,831 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 22:27:14,861 - StatementIm - ERROR - This Table already exists
+2014-12-11 22:31:37,513 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 22:31:37,547 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 22:31:37,549 - StatementIm - ERROR - bad formated input
+2014-12-11 22:31:37,556 - StatementIm - ERROR - This Table already exists
+2014-12-11 22:31:37,741 - ConnectionIM - INFO - Connection is closed.
+2014-12-11 22:31:37,741 - StatementIm - ERROR - No Defined Current Database
+2014-12-11 22:31:37,742 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 22:31:37,810 - StatementIm - ERROR - This Table doesn't exists in database
+2014-12-11 22:36:51,793 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 22:37:06,982 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 22:40:04,527 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 22:41:53,586 - StatementIm - ERROR - For input string: "double"
+2014-12-11 22:41:53,587 - Main - ERROR - 
+2014-12-11 22:44:42,047 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 22:44:43,231 - StatementIm - ERROR - For input string: "double"
+2014-12-11 22:44:43,231 - Main - ERROR - 
+2014-12-11 22:47:47,437 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 22:47:48,679 - StatementIm - ERROR - For input string: "double"
+2014-12-11 22:47:48,680 - Main - ERROR - 
+2014-12-11 22:48:29,132 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 22:48:32,184 - StatementIm - ERROR - For input string: "double"
+2014-12-11 22:48:32,185 - Main - ERROR - 
+2014-12-11 22:49:41,063 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 22:49:42,158 - StatementIm - ERROR - For input string: "double"
+2014-12-11 22:49:42,159 - Main - ERROR - 
+2014-12-11 22:53:49,102 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 22:53:50,409 - Main - ERROR - data base doesn't exist.
+2014-12-11 23:04:47,988 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 23:05:26,379 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 23:06:17,585 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 23:06:20,630 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 23:07:24,231 - StatementIm - ERROR - bad formated input
+2014-12-11 23:07:24,243 - Main - ERROR - bad formated input
+2014-12-11 23:08:33,623 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 23:09:24,503 - StatementIm - ERROR - This column doesn't exists in this table
+2014-12-11 23:09:24,503 - Main - ERROR - This column doesn't exists in this table
+2014-12-11 23:09:36,831 - ResultSetIM - ERROR - Bad Integer Format12346565121' in column0(PersonID).
+2014-12-11 23:09:36,832 - Main - ERROR - Bad Integer Format12346565121' in column0(PersonID).
+2014-12-11 23:13:41,724 - ConnectionIM - INFO - Connection is initiated
+2014-12-11 23:17:27,311 - StatementIm - ERROR - bad formated input
+2014-12-11 23:17:27,313 - Main - ERROR - bad formated input
+2014-12-11 23:18:39,129 - StatementIm - ERROR - 2
+2014-12-11 23:18:39,130 - Main - ERROR - 
+2014-12-11 23:19:53,026 - StatementIm - ERROR - 2
+2014-12-11 23:19:53,027 - Main - ERROR - 
+2014-12-11 23:26:13,619 - ConnectionIM - INFO - Connection is initiated

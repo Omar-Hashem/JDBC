@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Persons>
+    <person>
+		<PersonID>1</PersonID>
+        <LastName>Mohamed</LastName>
+        <FirstName>Ali</FirstName>
+        <address>11 street</address>
+		<city>Tanta</city>
+		<weight>70.46</weight>
+		<mass>100.62135451465156165</mass>
+		<long>1234648941316812</long>
+    </person>
+    <person>
+		<PersonID>2</PersonID>
+        <LastName>Mohamed</LastName>
+        <FirstName>Amr</FirstName>
+        <address>11 street</address>
+		<city>Alexandria</city>
+		<weight>90.6145</weight>
+		<mass>100.62135451465156165</mass>
+		<long>1234648941316812</long>
+    </person>
+    <person>
+		<PersonID>3</PersonID>
+        <LastName>Ahmed</LastName>
+        <FirstName>Mohsen</FirstName>
+        <address>12 street</address>
+		<city>Cairo</city>
+		<weight>100.6213</weight>
+		<mass>100.62135451465156165</mass>
+		<long>1234648941316812</long>
+    </person>
+	<person>
+		<PersonID>4</PersonID>
+        <LastName>Bassem</LastName>
+        <FirstName>Yasser</FirstName>
+        <address>43 street</address>
+		<city>Banha</city>
+		<weight>72.236</weight>
+		<mass>100.62135451465156165</mass>
+		<long>1234648941316812</long>
+    </person>
+</Persons>
